@@ -1,5 +1,8 @@
-# Jave-GOTH-game
-Text-based game inspired by World of Zuul
+---------------------------------------------------------------------------
+Dit is de README file van het project. Hier moet je je project beschrijven.
+Vertel je lezer (iemand die niets weet over dit project) alles wat hij of
+zij moet weten. Vermeld minstens de volgende dingen:
+------------------------------------------------------------------------
 
 Naam van het project: GOTH
 Doel van het project: World of Zuul Hybride
@@ -26,4 +29,3 @@ settrain   	(beamer, set train to location)
 use            	<itemname> (use in a room with an event)
 talkto        	<charactername> (talk to character)
 time          	(show the time remaining)
-
